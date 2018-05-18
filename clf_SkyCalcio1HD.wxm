@@ -1,11 +1,10 @@
 /* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
-/* [ Created with wxMaxima version 16.04.2 ] */
-
+/* [ Created with wxMaxima version 17.10.1 ] */
 /* [wxMaxima: input   start ] */
 kill(all)$
 
 print("_______________________________________________")$
-print("Program name:clf")$
+print("Program name: clf_SkyCalcio1HD")$
 print("_______________________________________________")$
 
 print("Computing the wavelength for Sky Calcio 1 HD frequency")$
@@ -25,6 +24,8 @@ print('k," = ",k)$
 /* */
 print("end")$
 /* [wxMaxima: input   end   ] */
+
+
 
 /* Maxima can't load/batch files which end with a comment! */
 "Created with wxMaxima"$
