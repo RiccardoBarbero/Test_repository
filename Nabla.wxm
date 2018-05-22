@@ -1,7 +1,9 @@
 /* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
-/* [ Created with wxMaxima version 16.04.2 ] */
-
+/* [ Created with wxMaxima version 17.10.1 ] */
 /* [wxMaxima: input   start ] */
+print("Program name: Nabla")$
+print("")$
+
 kill(all)$
 
 depends([h11,h12,h21,h22],[x,y,z])$
@@ -109,6 +111,8 @@ Gradesep(M)$
 print("")$
 print("End")$
 /* [wxMaxima: input   end   ] */
+
+
 
 /* Maxima can't load/batch files which end with a comment! */
 "Created with wxMaxima"$
